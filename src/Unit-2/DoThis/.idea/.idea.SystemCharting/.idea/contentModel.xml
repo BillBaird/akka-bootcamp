@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Bill\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Bill\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_SystemCharting.2052016302.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Bill\Documents\ws\SB\akka-bootcamp\src\Unit-2\DoThis" t="IncludeRecursive">
+      <e p="Actors" t="Include">
+        <e p="ButtonToggleActor.cs" t="Include" />
+        <e p="ChartingActor.cs" t="Include" />
+        <e p="ChartingMessages.cs" t="Include" />
+        <e p="PerformanceCounterActor.cs" t="Include" />
+        <e p="PerformanceCounterCoordinatorActor.cs" t="Include" />
+      </e>
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ChartApp.csproj" t="IncludeRecursive" />
+      <e p="ChartDataHelper.cs" t="Include" />
+      <e p="Main.cs" t="Include" />
+      <e p="Main.Designer.cs" t="Include" />
+      <e p="Main.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="SystemCharting.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
